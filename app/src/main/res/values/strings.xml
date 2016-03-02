@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JacobApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_videos">Videos</string>
+    <string name="item_support">Support</string>
+    <string name="item_about">About</string>
+    <string name="phone_support_info">We understand you may need to clarify some of the content included in our free videos or that you may have additional questions. You’re not alone – even CPAs and lawyers call us! Our expert 1095 agents will be happy to answer your questions. Please note there is a charge of $7.95 which includes up to 12 minutes of “talk-time.”</string>
+    <string name="phone_support">Phone Support</string>
+    <string name="call_now">Call Now!</string>
+    <string name="even_more_great_videos">Even More Great Videos!</string>
+    <string name="EMGV_info">We are hopeful you loved watching our videos and want you to know, we are expanding our health insurance and employee benefits video collection. Please provide your email if you would like to be notified about our future videos.</string>
+    <string name="subscribe">Subscribe!</string>
+    <string name="company_desc">Company Description</string>
+    <string name="company_desc_info_1">1095ABC is a division of ACA Managed Services, a leading provider of Affordable Care Act Compliance Administration services.  Since 2013, employers ranging from 50 to 100,000 employees have been served. In late 2015 we began answering our clients’ employee’s questions about the 1095-B and 1095-C forms through our ACA Contact Center. Since that time we have helped thousands of callers answer elusive questions about their respective forms.</string>
+    <string name="company_desc_info_2">These important discussions with “every day” people gave birth to the idea of providing much needed support to the millions of Americans that have questions about their 1095 forms. Hence, www.1095ABC.com and this app was born.</string>
+    <string name="company_desc_info_3">We thank all of you for using our app and are hopeful our app answered your questions.</string>
+    <string name="company_desc_info_4">God bless America!</string>
+    <string name="_1095abc">1095<b>ABC</b></string>
+</resources>

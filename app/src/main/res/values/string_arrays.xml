@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="string_array_important">
+        <item>1095-A</item>
+        <item>1095-B</item>
+        <item>1095-C</item>
+    </string-array>
+
+    <string-array name="string_array_geography">
+        <item>Northeast</item>
+        <item>Southeast</item>
+        <item>Midwest</item>
+        <item>West</item>
+    </string-array>
+
+    <string-array name="string_array_gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="string_array_age">
+        <item>under 35</item>
+        <item>36-50</item>
+        <item>51-60</item>
+        <item>60 plus</item>
+    </string-array>
+
+</resources>
